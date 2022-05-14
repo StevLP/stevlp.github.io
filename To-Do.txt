@@ -1,0 +1,12 @@
+To-Do Liste:
+    - Musikqueue hinzufügen
+    - OP.GG Integration
++---------------------------------+
+| == ====== RELEASE 1.0 ====== == |
++---------------------------------+
+    - Livestream-Musik-Support
+    - Playlist-Support
+    
+
+Known-Error's und ihre Lösungen:
+    - Musik springt bei Liedern, die scheinbar "Provided to YouTube by IIP-DDS" in der Beschreibung stehen haben 
